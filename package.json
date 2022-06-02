@@ -20,11 +20,14 @@
   },
   "homepage": "https://github.com/superfishal/Food-Festival#readme",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^5.72.1",
+    "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "image-webpack-loader": "^8.1.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.0"
   }
